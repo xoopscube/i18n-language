@@ -1,0 +1,3 @@
+files:
+  - source: /pt*
+    translation: '%original_path%'
