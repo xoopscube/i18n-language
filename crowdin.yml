@@ -1,0 +1,3 @@
+files:
+  - source: /ja*
+    translation: '%original_path%'
