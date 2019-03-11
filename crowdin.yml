@@ -1,0 +1,3 @@
+files:
+  - source: /cz*
+    translation: '%original_path%'
