@@ -1,7 +1,10 @@
-# i18n - language
+# XCL support i18n/l10n
 Language packages to internationalize XCL Web Application
 
 ## Branch
+
+The following languages are currently being translated, 
+but it's possible to easily add more languages. 
 
 Select the branch to download the language package 
 * czech	
@@ -19,6 +22,17 @@ Select the branch to download the language package
 * tw_big5	
 * tw_utf-8	
 * zh-tw
+
+## Installation
+
+* Download the required language package from its branch.
+* Merge the language package into your XCL installation.
+
+## Usage
+
+The i18n-language package has no dependencies and exports no functions. It is simply a strutured folder containing all of XCL's source string/translation php files, smarty templates and html documentation, in every language.
+
+XCL provides a graphical user interface to translate or customize the source string/translation files. 
 
 ## Definition
 
@@ -40,3 +54,8 @@ and L10n for localization, due to the length of the words.
 According to Software without frontiers, the design aspects to consider when internationalizing a product are "data encoding, data and documentation, software construction, hardware device support, user interaction"; while the key design areas to consider when making a fully internationalized product from scratch are "user interaction, algorithm design and data formats, software services, documentation".
 
 Translation is typically the most time-consuming component of language localization.
+
+## Locale ID
+A locale is a specific geographical, political, or cultural region. The most commonly used locale ID consists of two parts: language code and country code. For example, en-US, en-AU, and zh-CN are all valid locale IDs that have both language codes and country codes. Because specifying a country code in locale ID is optional, locale IDs such as en, zh, and sk are also valid. See the ICU website for more information about using locale IDs - http://userguide.icu-project.org/locale
+
+
