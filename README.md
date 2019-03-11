@@ -34,3 +34,9 @@ The terms are frequently abbreviated to the numeronyms i18n
 (where 18 stands for the number of letters between the first i and the last n in the word internationalization, 
 a usage coined at Digital Equipment Corporation in the 1970s or 1980s)
 and L10n for localization, due to the length of the words.
+
+## Scope
+
+According to Software without frontiers, the design aspects to consider when internationalizing a product are "data encoding, data and documentation, software construction, hardware device support, user interaction"; while the key design areas to consider when making a fully internationalized product from scratch are "user interaction, algorithm design and data formats, software services, documentation".
+
+Translation is typically the most time-consuming component of language localization.
