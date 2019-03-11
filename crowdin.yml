@@ -1,0 +1,3 @@
+files:
+  - source: /ru*
+    translation: '%original_path%'
