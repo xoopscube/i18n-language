@@ -1,0 +1,3 @@
+files:
+  - source: /ko*
+    translation: '%original_path%'
