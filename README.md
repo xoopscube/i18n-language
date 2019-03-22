@@ -1,4 +1,7 @@
 # XCL support i18n/l10n
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://www.repostatus.org/#active)
+
 Language packages to internationalize XCL Web Application
 
 ## Branch
