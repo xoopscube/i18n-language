@@ -25,7 +25,7 @@ All notable changes to this project will be documented in this file.
 
 ### Removed
 
-- Testing files and markdown samples
+- no
 
 ### Fixed
 
