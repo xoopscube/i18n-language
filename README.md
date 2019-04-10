@@ -61,4 +61,10 @@ Translation is typically the most time-consuming component of language localizat
 ## Locale ID
 A locale is a specific geographical, political, or cultural region. The most commonly used locale ID consists of two parts: language code and country code. For example, en-US, en-AU, and zh-CN are all valid locale IDs that have both language codes and country codes. Because specifying a country code in locale ID is optional, locale IDs such as en, zh, and sk are also valid. See the ICU website for more information about using locale IDs - http://userguide.icu-project.org/locale
 
+## W3C
+
+The W3C Internationalization (I18n) Activity works with W3C working groups and liaises with other organizations to make it possible to use Web technologies with different languages, scripts, and cultures. From this page you can find articles and other resources about Web internationalization, and information about the groups that make up the Activity. Read also about the opportunities to participate and fund work via the new Sponsorship Program.
+
+https://www.w3.org/International/
+
 
